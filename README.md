@@ -10,7 +10,7 @@ The repos I star are projects I use on a daily basis, either personally or profe
 
 For better or for worse I'm not flashy. I like to keep it simple, stupid! So you'll find a general lack of swish fancy animations or dynamically generated status graphics in my README files or, emoji- Nothing like that, with just a few exceptions, like the sentence below:
 
-Probably to my own detriment when it comes to chances of being hired and potential awkward interactions in real life, I'm not hiding my true colors here. I'm trans and I'm proud of it 🏳️‍⚧️
+I'm nonbinary! 💛🤍💜🖤 
 
 I'm open source by default. Most of my code is licensed under the GNU AGPL.
 
