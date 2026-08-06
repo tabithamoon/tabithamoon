@@ -1,6 +1,6 @@
 ## Hi, I'm Tabitha
 
-I'm a robot on the internet. And also, a total nerd.
+I'm a cat on the internet. And also, a total nerd.
 
 My focus is on hardware, network infrastructure, backend and DevOps work, however I can mostly do frontend if I have to (check [this repo](https://github.com/tabithamoon/blog) for the code of my personal blog).
 
@@ -12,7 +12,7 @@ For better or for worse I'm not flashy. I like to keep it simple, stupid! So you
 
 I'm nonbinary! 💛🤍💜🖤 
 
-I'm open source by default. Most of my code is licensed under the GNU AGPL.
+I'm open source by default. Most of my code is licensed GPL or MIT.
 
 Languages I know enough to be dangerous:
 
